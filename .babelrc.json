@@ -1,0 +1,10 @@
+{
+  "comments": false,
+  "presets": [
+    "@babel/preset-env",
+    {
+      "loose": true,
+      "modules": true
+    }
+  ]
+}

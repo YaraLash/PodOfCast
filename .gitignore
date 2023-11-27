@@ -267,3 +267,4 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 .idea/**
+package-lock.json
