@@ -1,0 +1,33 @@
+{
+  "name": "podofcast",
+  "version": "1.0.0",
+  "description": "PodOfCast landing page offering listening to the organization's podcasts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaraLash/PodOfCast.git"
+  },
+  "keywords": [
+    "landing",
+    "page",
+    "podcasts",
+    "music",
+    "landing",
+    "podofcast",
+    "лендинг",
+    "пример",
+    "лендинга",
+    "проект",
+    "портфолио",
+    "landing"
+  ],
+  "author": "YaraLash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YaraLash/PodOfCast/issues"
+  },
+  "homepage": "https://github.com/YaraLash/PodOfCast#readme"
+}
